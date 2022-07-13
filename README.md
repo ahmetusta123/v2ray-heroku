@@ -12,7 +12,7 @@
 部署需要注册heroku帐号，注册heroku帐号时需要梯子（否则验证码刷不出来），需要一个能正常接收验证码的邮箱（@qq.com，@163.com都不行），有条件gmail
 最好，没条件这里推荐outlook <https://login.live.com/>。
 
-shadowsocks+v2ray-plugin方案点击这里： <https://github.com/ygcaicn/ss-heroku>
+shadowsocks+v2ray-plugin方案点击这里： <https://github.com/ahmetusta123/v2ray-heroku>
 
 ## 1. 验证
 
